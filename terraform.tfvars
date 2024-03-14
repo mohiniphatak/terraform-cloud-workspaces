@@ -5,5 +5,5 @@
 # infra_env="dev"
 
 region_name = "us-east-1"
-ec2_instance_type = "t2.micro"
+ec2_instance_type = "t2.medium"
 ec2_image = "ami-0f403e3180720dd7e"
